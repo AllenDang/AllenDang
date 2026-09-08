@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Allen Dang&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 5274, Total Commits  (last year) : 539, Total PRs: 81, Total Issues: 268, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 5275, Total Commits  (last year) : 539, Total PRs: 81, Total Issues: 268, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.88709819677823;
+        stroke-dashoffset: 36.886950445600796;
       }
     }
   
